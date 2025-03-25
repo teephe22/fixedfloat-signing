@@ -1,0 +1,9 @@
+{
+  "name": "fixedfloat-signing",
+  "version": "1.0.0",
+  "description": "FixedFloat API signing service",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
